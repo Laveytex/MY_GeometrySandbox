@@ -24,5 +24,5 @@ public:
 	virtual void Tick(float DeltaTime) override;
 private:
 	void printType();
-	
+	void printStringTipes();
 };
