@@ -13,5 +13,8 @@ UCLASS()
 class MY_GEOMETRYSANDBOX_API AMY_GeometrySandboxGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
+	AMY_GeometrySandboxGameModeBase();
 	
 };
